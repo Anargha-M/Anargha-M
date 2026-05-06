@@ -78,5 +78,5 @@ Working on <b>Telecom Applications using C++</b><br>
 
 [mail]:mailto:anargha6887@gmail.com  
 [instagram]: https://www.instagram.com/a_na_rgha_/  
-[linkedin]: www.linkedin.com/in/anargha-suresh 
+[linkedin]: https://www.linkedin.com/in/anargha-suresh 
 [github]: https://github.com/Anargha-M
