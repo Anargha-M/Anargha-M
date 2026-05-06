@@ -11,7 +11,7 @@ Working on <b>Telecom Applications using C++</b><br>
 - 💼 Software Developer at **6D Technologies**
 - 🔭 Working on **Telecom Applications using C++**
 - 🌱 Learning **Advanced System Design & High Performance Applications**
-- 💡 Interested in **Backend Systems, Embedded Systems, Linux & Open Source**
+- 💡 Interested in **Backend Systems, Linux & Open Source**
 - 👯 Open to collaborate on **C++, Linux, Embedded & Open Source Projects**
 - 💬 Ask me about **C++, Redis, Multithreading, Linux, Socket Programming**
 - 🐧 Daily using **Linux OS**
