@@ -56,13 +56,6 @@ Working on <b>Telecom Applications using C++</b><br>
 
 <br>
 
-<summary><h2>⚙️ GitHub Analytics</h2></summary>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anargha-M&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anargha-M&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Connect with me</h2></summary>
 
 <p align="center">
